@@ -7,7 +7,7 @@
 
 ## Overview
 
-Branchgres is an state version control system for PostgreSQL databases that brings Git-like semantics to database management. It captures database changes via triggers, stores them as immutable blobs, and enables powerful time-travel operations including snapshots, rollbacks, and Docker-based environment spin-ups.
+Branchgres is a state version control system for PostgreSQL databases that brings Git-like semantics to database management. It captures database changes via triggers, stores them as immutable blobs, and enables powerful time-travel operations including snapshots, rollbacks, and Docker-based environment spin-ups.
 
 ## Features
 
@@ -218,5 +218,6 @@ MIT License - see LICENSE file for details
 ---
 
 **Made with ❤️ for database version control**
+
 
 
