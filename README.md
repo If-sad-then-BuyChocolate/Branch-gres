@@ -1,4 +1,4 @@
-# Branchgres (bg)
+# Branchgres (BG) (Work in Progress)
 
 **Git-like version control for PostgreSQL databases**
 
@@ -218,3 +218,4 @@ MIT License - see LICENSE file for details
 ---
 
 **Made with ❤️ for database version control**
+
